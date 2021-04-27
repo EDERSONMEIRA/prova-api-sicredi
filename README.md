@@ -17,7 +17,7 @@
 
 Na raiz do projeto execute oa seguintes comandos:
 
-* Somentes testes 
+* Somente testes 
 ```bash
   mvn test
  ```
